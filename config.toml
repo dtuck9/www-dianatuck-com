@@ -2,7 +2,6 @@ title = "Diana Tuck"
 baseURL = "https://dianatuck.com"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-themesDir = "themes"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
